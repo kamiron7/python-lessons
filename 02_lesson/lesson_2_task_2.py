@@ -5,4 +5,4 @@ def is_year_leap(year):
         return False
 
 
-print(is_year_leap(2023))
+print(is_year_leap(2020))
